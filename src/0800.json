@@ -1,0 +1,57 @@
+[
+    {
+        "timestamp": "2024-03-04 11:09:45",
+        "iteration": 1,
+        "result": {
+            "dns.google.com": {
+                "port": "53",
+                "status": true,
+                "description": "Port 53 on dns.google.com is open or no response received."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:53",
+        "iteration": 2,
+        "result": {
+            "dns.google.com": {
+                "port": "53",
+                "status": true,
+                "description": "Port 53 on dns.google.com is open or no response received."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:01",
+        "iteration": 3,
+        "result": {
+            "dns.google.com": {
+                "port": "53",
+                "status": true,
+                "description": "Port 53 on dns.google.com is open or no response received."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:09",
+        "iteration": 4,
+        "result": {
+            "dns.google.com": {
+                "port": "53",
+                "status": true,
+                "description": "Port 53 on dns.google.com is open or no response received."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:17",
+        "iteration": 5,
+        "result": {
+            "dns.google.com": {
+                "port": "53",
+                "status": true,
+                "description": "Port 53 on dns.google.com is open or no response received."
+            }
+        }
+    }
+]

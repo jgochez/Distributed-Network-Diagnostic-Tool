@@ -1,0 +1,88 @@
+[
+    {
+        "0100": {
+            "task": "ping",
+            "frequency": 5,
+            "configuration": [
+                "google.com",
+                "1"
+            ],
+            "status": "Stopped"
+        }
+    },
+    {
+        "0200": {
+            "task": "traceroute",
+            "frequency": 5,
+            "configuration": [
+                "google.com",
+                "1"
+            ],
+            "status": "Running"
+        }
+    },
+    {
+        "0300": {
+            "task": "http",
+            "frequency": 5,
+            "configuration": [
+                "http://google.com"
+            ],
+            "status": "Running"
+        }
+    },
+    {
+        "0400": {
+            "task": "https",
+            "frequency": 5,
+            "configuration": [
+                "https://google.com"
+            ],
+            "status": "Running"
+        }
+    },
+    {
+        "0500": {
+            "task": "ntp",
+            "frequency": 5,
+            "configuration": [
+                "pool.ntp.org"
+            ],
+            "status": "Running"
+        }
+    },
+    {
+        "0600": {
+            "task": "dns",
+            "frequency": 5,
+            "configuration": [
+                "8.8.8.8",
+                "www.google.com",
+                "A"
+            ],
+            "status": "Running"
+        }
+    },
+    {
+        "0700": {
+            "task": "tcp",
+            "frequency": 5,
+            "configuration": [
+                "github.com",
+                "22"
+            ],
+            "status": "Running"
+        }
+    },
+    {
+        "0800": {
+            "task": "udp",
+            "frequency": 5,
+            "configuration": [
+                "dns.google.com",
+                "53"
+            ],
+            "status": "Running"
+        }
+    }
+]

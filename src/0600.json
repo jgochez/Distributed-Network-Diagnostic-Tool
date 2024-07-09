@@ -1,0 +1,112 @@
+[
+    {
+        "timestamp": "2024-03-04 11:08:37",
+        "iteration": 1,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:08:48",
+        "iteration": 2,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:08:58",
+        "iteration": 3,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.406 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:09",
+        "iteration": 4,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.406 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:19",
+        "iteration": 5,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:29",
+        "iteration": 6,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:40",
+        "iteration": 7,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:50",
+        "iteration": 8,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:01",
+        "iteration": 9,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.406 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:11",
+        "iteration": 10,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.407 seconds: Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out.; Server Do53:142.251.32.4@53 answered The DNS operation timed out."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:22",
+        "iteration": 11,
+        "result": {
+            "8.8.8.8_www.google.com_A": {
+                "status": false,
+                "query_results": "The resolution lifetime expired after 5.406 seconds: Server Do53:172.217.0.164@53 answered The DNS operation timed out.; Server Do53:172.217.0.164@53 answered The DNS operation timed out.; Server Do53:172.217.0.164@53 answered The DNS operation timed out."
+            }
+        }
+    }
+]

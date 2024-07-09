@@ -1,0 +1,37 @@
+# Management Service Software Requirements Specification (SRS) (Abbreviated):
+
+        - Management Service monitoring management
+                1) The Management Service must perform the existing tasks related to configuring and managing monitoring tasks.
+        - Connection Management
+                2) The management service must be capable of establishing and maintaining persistent TCP connections to multiple monitoring services, each identified by IP and port numbers.
+                3) Implement TCP keepalive mechanisms to ensure long-term connection stability.
+                4) Automatically attempt reconnection if any connection to a monitoring service fails.
+                5) Management Service must have a saved configuration that contains the list of Monitoring Services (e.g. can be a file, hard coded, or other persistent option).
+        - Configuration Management
+                1) Hold all configuration information for monitoring tasks, including service types to monitor (HTTP, HTTPS, ICMP, DNS, NTP, TCP, UDP), parameters for checks (URLs, server addresses, port numbers), and check frequencies.
+                2) Assign and manage unique IDs for each monitoring service, linking them to specific monitoring tasks.
+        - Status Display
+                1) Provide real-time status updates of all connected monitoring services, including their operational status (i.e. validating task information, idle, etc.) and any alerts (i.e. “Online”, “Offline”, etc.) or anomalies detected (i.e. “Reconnecting”, etc.).
+                2) Print critical messages to the console (or other variant with same goal in GUI).
+                3) Print status message to console, or provide list upon request, if using command line interface (or other variant with same goal in GUI).
+        - Task Distribution and Validation
+                1) Distribute monitoring tasks to connected monitoring services
+                2) Retrieve a unique monitoring ID from the Monitoring Service
+                3) Receive confirmations from monitoring services for each task, ensuring they have the task configurations.
+# Monitoring Service Software Requirements Specification (SRS) (Abbreviated):
+
+        - Monitoring Service monitoring actions
+                1) The Monitoring Service must perform the existing tasks related to running service checks.
+        - Unique Identification
+                1) Monitoring Service must use a unique identifier for interacting with the Management Service.
+        - Task Management
+                1) Monitoring Service must use unique identifier (R2.1) to perform task management with Management Service.
+                2) Receive all monitoring tasks with the management service.
+                3) Perform assigned monitoring tasks according to the received configurations and frequencies.
+        - Result Reporting
+                1) Monitoring Service must use unique identifier (R2.1) to perform result reporting with Management Service.
+                2) Send the results of service tests back to the management service immediately for real-time reporting.
+                3) If connection is down, hold onto results until next connection from Management Service.
+                4) Maintain timestamps for all monitoring results (transferred to Management Service as part of the result for accurate reporting).
+        - Resilience and Recovery
+                1) Monitoring Service must be able to allow for the Management Service to reconnect without needing to restart the Monitoring Service.

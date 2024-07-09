@@ -1,0 +1,167 @@
+[
+    {
+        "timestamp": "2024-03-04 11:09:12",
+        "iteration": 1,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:17",
+        "iteration": 2,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:22",
+        "iteration": 3,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:27",
+        "iteration": 4,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:32",
+        "iteration": 5,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:37",
+        "iteration": 6,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:42",
+        "iteration": 7,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:47",
+        "iteration": 8,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:52",
+        "iteration": 9,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:09:57",
+        "iteration": 10,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:02",
+        "iteration": 11,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:07",
+        "iteration": 12,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:13",
+        "iteration": 13,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:18",
+        "iteration": 14,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    },
+    {
+        "timestamp": "2024-03-04 11:10:23",
+        "iteration": 15,
+        "result": {
+            "github.com": {
+                "port": "22",
+                "status": true,
+                "description": "Port 22 on github.com is open."
+            }
+        }
+    }
+]
